@@ -1,0 +1,25 @@
+.memo_card{
+	background-color: white;
+	box-shadow: -1px 1px 5px 0px #bdc3c7;
+	display: block;
+	float: none;
+	clear: both;
+	//padding: 12px;
+	margin-top: 15px;
+}
+
+.memo_title {
+	background-color: #2ecc71;
+	padding: 12px;
+	color: white;
+	font-weight: bolder;
+}
+.memo_content {
+	padding: 12px;
+}
+
+.memo_pencil {
+	float: right;
+	color: white;
+	margin-right: 2px;
+}

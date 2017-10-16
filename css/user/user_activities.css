@@ -1,0 +1,45 @@
+.activity_card {
+	margin: 25px 12px;
+	align-content: center;
+}
+.activity_title{
+
+	width: 100%;
+	color: white;
+	clear: both;
+	float: left;
+	padding: 14px;
+	margin-bottom: 15px;
+}
+.activity_content {
+	align-content: center;
+	//text-align: center;
+}
+.task_card{
+	background-color: white;
+	box-shadow: -1px 1px 5px 0px #bdc3c7;
+	display: block;
+	float: none;
+	clear: both;
+	padding: 12px;
+	margin-top: 15px;
+}
+
+
+.activity_btn {
+	background-color: #3498db;
+    color: white;
+    transition: all .1s;
+    border-color: #3498db;
+    border-radius: 50%;
+}
+.activity_btn:hover{
+    color: #ecf0f1;
+    background-color: #2980b9;
+    border-color: #2980b9;
+}
+
+
+.icons{
+	margin: 0px 5px 0px 5px;
+}
