@@ -1,0 +1,61 @@
+/*Window*/
+.personal_todo{
+	background-color: white;
+	box-shadow: -1px 1px 5px 0px #bdc3c7;
+	display: block;
+	float: none;
+	clear: both;
+	//padding: 12px;
+	margin: 25px;
+	border-top-right-radius: 2px;
+	border-top-left-radius: 2px;
+}
+
+.personal_todo_title {
+	background-color: #2980b9;
+	padding: 12px;
+	color: white;
+	font-weight: bolder;
+	border-top-right-radius: 4px;
+	border-top-left-radius: 4px;
+}
+
+.todo_checkbox {
+	width:24px;
+	height:24px;
+	position:relative;
+	background-color: #eee;
+
+}
+.todo_checkbox label{
+
+}
+
+/*Contacts*/
+.shared_todo{
+	background-color: white;
+	box-shadow: -1px 1px 5px 0px #bdc3c7;
+	display: block;
+	float: none;
+	clear: both;
+	//padding: 12px;
+	margin: 25px;
+}
+
+.shared_todo_title {
+	background-color: #2980b9;
+	padding: 12px;
+	color: white;
+	font-weight: bolder;
+	border-top-right-radius: 4px;
+	border-top-left-radius: 4px;
+}
+
+.personal_todo_card{
+	background-color: white;
+	box-shadow: -1px 1px 5px 0px #bdc3c7;
+	display: block;
+	float: none;
+	clear: both;
+	padding: 12px;	
+}

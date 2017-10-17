@@ -7,6 +7,8 @@
 
     <?php require('components/csslinks.php'); ?>
 
+    <link rel="stylesheet" type="text/css" href="css/user/user_toDoList.css">
+
 </head>
 
 <body>
@@ -17,9 +19,9 @@
         <?php require('components/sidebar.php'); ?>
         <!-- /#sidebar-wrapper -->
 
-            <!-- Home Page Content -->
-        	<?php require('components/user/user_activities.php'); ?>
-            <!-- Home Page Content -->
+            <!-- Page Content -->
+        	<?php require('components/user/user_toDoList.php'); ?>
+            <!-- Page Content -->
 
     </div>
     <!-- /#wrapper -->
