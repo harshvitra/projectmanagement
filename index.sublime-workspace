@@ -1,0 +1,359 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"file",
+				"filename"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"upl",
+				"uploaded_file"
+			],
+			[
+				"files",
+				"files_list"
+			],
+			[
+				"file_dr",
+				"file_drag_over"
+			],
+			[
+				"f",
+				"file_drag_area"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"border-top",
+				"border-top-left-radius"
+			],
+			[
+				"user",
+				"user_toDoList"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"conta",
+				"container-fluid"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"over",
+				"overflow-wrap"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"bo",
+				"bolder"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"btn",
+				"btn-outline"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"cont",
+				"align-content"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"bt",
+				"btn-outline"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"con",
+				"container-fluid"
+			],
+			[
+				"bac",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/project/toDoList.php",
+		"/C/xampp/htdocs/project/components/user/user_toDoList.php",
+		"/C/xampp/htdocs/draganddrop/index.php",
+		"/C/xampp/htdocs/draganddrop/upload.php",
+		"/C/xampp/htdocs/project/css/user/user_toDoList.css",
+		"/C/xampp/htdocs/upload/index.php",
+		"/C/xampp/htdocs/upload/delete.php",
+		"/C/xampp/htdocs/upload/upload.php",
+		"/C/xampp/htdocs/project/discussions.php",
+		"/C/xampp/htdocs/project/components/user/user_discussions.php",
+		"/C/xampp/htdocs/project/css/user/user_discussions.css",
+		"/C/xampp/htdocs/project/components/user/user_activities.php",
+		"/C/xampp/htdocs/project/css/menu.css",
+		"/C/xampp/htdocs/project/css/user/user_personalNotes.css",
+		"/C/xampp/htdocs/project/personalNotes.php",
+		"/C/xampp/htdocs/project/components/sidebar.php",
+		"/C/xampp/htdocs/project/components/user/user_personalNotes.php",
+		"/C/xampp/htdocs/project/components/user/user_home.php",
+		"/C/xampp/htdocs/project/css/user/user_activities.css",
+		"/C/xampp/htdocs/project/components/user/user_attendance.php",
+		"/C/xampp/htdocs/project/activities.php",
+		"/C/xampp/htdocs/project/composer.json",
+		"/C/xampp/htdocs/project/components/csslinks.php",
+		"/C/xampp/htdocs/project/components/jsfiles.php",
+		"/C/xampp/htdocs/project/components/head.php",
+		"/C/xampp/htdocs/project/css/buttons.css",
+		"/C/Users/Harsh/AppData/Local/Temp/Temp1_push-bootstrap-button-pack-master.zip/push-bootstrap-button-pack-master/assets/css/buttons.css",
+		"/C/Users/Harsh/AppData/Local/Temp/Temp1_push-bootstrap-button-pack-master.zip/push-bootstrap-button-pack-master/assets/css/demo.css",
+		"/C/xampp/htdocs/project/index.php",
+		"/C/xampp/htdocs/project/css/boxadjusting.css",
+		"/C/xampp/htdocs/project/css/simple-sidebar.css",
+		"/C/xampp/htdocs/project/components/user/home.php",
+		"/C/xampp/htdocs/project/components/user/activities.php",
+		"/C/xampp/htdocs/project/components/header.php",
+		"/C/xampp/htdocs/project/components/navbar.php"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
